@@ -22,3 +22,29 @@ to accurately updating the bill's status and handling incomplete payments.
 ### Mobil Provider App:
 
 
+https://github.com/19070006040/4458midterm/assets/149877163/2793e873-ac76-4427-9cfc-825c317ddb58
+
+
+### Banking App:
+
+
+
+https://github.com/19070006040/4458midterm/assets/149877163/e5d85e63-78a7-4fc9-9f83-3cf7266915cd
+
+
+
+
+### Web Site App
+
+
+
+https://github.com/19070006040/4458midterm/assets/149877163/43f2f2c4-d677-4993-a62d-3fd55142a846
+
+
+
+### Presentation:
+
+https://drive.google.com/file/d/1J9AgaIqRZDoObtnu2zzkqYYpXV0Ii_-b/view?usp=sharing
+
+
+
